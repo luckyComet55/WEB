@@ -15,3 +15,7 @@
 ol li::marker {
     color: red;
 }
+
+blockquote {
+    font-style: oblique;
+}
