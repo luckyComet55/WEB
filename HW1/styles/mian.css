@@ -1,0 +1,17 @@
+* {
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+}
+
+.main p {
+    text-indent: 30px;
+}
+
+#that_one_img {
+    border: 1px solid black;
+}
+
+ol li::marker {
+    color: red;
+}
